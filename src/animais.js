@@ -28,4 +28,4 @@ class Animal {
     
 }
 
-export { Animal };
+export { Animal as Animal};
